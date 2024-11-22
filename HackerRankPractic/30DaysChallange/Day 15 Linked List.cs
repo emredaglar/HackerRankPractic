@@ -92,7 +92,6 @@ namespace HackerRankPractic._30DaysChallange
             }
             static void Main(String[] args)
             {
-
                 Node head = null;
                 int T = Int32.Parse(Console.ReadLine());
                 while (T-- > 0)
